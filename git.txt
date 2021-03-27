@@ -3,3 +3,8 @@ git commit -m przesyła nowe pliki
 git branch - tworzy podfoldery oparte na poprzednich folderach
 git checkout - poruszanie sie pomiedzy folderami (master/branch)
 git status - sprawdzanie statusu
+git merge "dodanie branch'ów do mastera"
+składnia
+git merge firstbranch
+
+:q - wyjście z edytora testowego
